@@ -1,0 +1,9 @@
+## Interface: 40300
+## Title: KillCounter
+## Notes: Tracks Honorable Kills and Honorable Killing Blows
+## Version: V1.0.1	
+## Author: TooSmooth
+
+
+KillCounter.lua
+KillCounter.xml
